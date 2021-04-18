@@ -1,0 +1,16 @@
+GameId: "960fd2bbbd9e46cc9322440d7d246186"
+ClientVersion: "1.0.184-prod-s"
+Name: "Gotta Go Fast"
+Description: "A multiplayer mount racing game for up to 4 players, made in 24 hours for BeachHacks 2021!\r\nMount up, jump over police cars, get pickups to fly. \r\nWhoever gets to the trophy first wins. \r\nMore levels coming soon. \r\n\r\n**Shoutout to Community Content Creators!**\r\nThese are all the free opensource scripts/models used made by other people.\r\n\r\n- Outlined Nameplates by WaveParadigm\r\n- Simple Item Respawner by JohnBrown22\r\n- Fly Ability Pickup by Waffle\r\n- Gold Trophy by Tobs"
+MaxPlayers: 8
+Tags: "Casual"
+Tags: "Racing"
+Tags: "Multiplayer"
+Tags: "Competitive"
+Tags: "SideScroller"
+ScreenshotPaths: "C:\\Users\\AlisaK\\Downloads\\0.png"
+ScreenshotPaths: "C:\\Users\\AlisaK\\Downloads\\1.png"
+ScreenshotPaths: "C:\\Users\\AlisaK\\Downloads\\2.png"
+ScreenshotPaths: "C:\\Users\\AlisaK\\Downloads\\3.png"
+OwnerId: "30110ae5b3124601b89f576d63d1c475"
+SerializationVersion: 1
